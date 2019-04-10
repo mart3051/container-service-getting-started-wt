@@ -174,3 +174,4 @@ IBM Cloud provides the capability to run applications in containers on Kubernete
 
 [Lab 6](https://github.com/IBM/container-service-getting-started-wt/tree/master/Lab%206): This lab walks through using Instana for CI/CD monitoring and network patrolling of your cluster.
 
+Marty's update
